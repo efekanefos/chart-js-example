@@ -1,0 +1,36 @@
+{
+  "date_population" : [
+    {
+    "date":"1941",
+    "population":"406760"
+    },
+    {
+      "date":"1951",
+      "population":"778977"
+    },
+    {
+      "date":"1961",
+      "population":"1207000"
+    },
+    {
+      "date":"1971",
+      "population":"1654000"
+    },
+    {
+      "date":"1981",
+      "population":"2922000"
+    },
+    {
+      "date":"1991",
+      "population":"4130000"
+    },
+    {
+      "date":"2001",
+      "population":"5101000"
+    },
+    {
+      "date":"2011",
+      "population":"8425970"
+    }
+  ]
+}
